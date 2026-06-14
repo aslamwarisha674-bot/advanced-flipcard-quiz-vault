@@ -47,4 +47,4 @@ To pull and execute this asset inside a local native framework:
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/advanced-flipcard-quiz-vault.git](https://github.com/YOUR_USERNAME/advanced-flipcard-quiz-vault.git)
+   git clone [https://github.com//advancedwarisha674-bot-flipcard-quiz-vault.git](https://github.com//advancedwarisha674-bot-flipcard-quiz-vault.git)
