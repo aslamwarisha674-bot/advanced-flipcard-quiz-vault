@@ -1,4 +1,4 @@
- 📱 Advanced Flipcard Quiz Vault – Native Android Application
+ 📱  CodeAlpha_FlashcardQuizApp Vault – Native Android Application
 
 A high-performance, native Android application engineered in **Java** designed to facilitate interactive self-evaluation via active recall pipelines. The architecture seamlessly integrates a dynamic user quiz interface with an administrative data management terminal.
 
